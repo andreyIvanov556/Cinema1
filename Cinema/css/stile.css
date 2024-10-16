@@ -156,7 +156,7 @@
     color: #621402;
   }
   .select {
-    background: rgba(255, 255, 255, 0.15);
+    background: rgb(0, 0, 0);
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 5px;
     color: #ffffff;
